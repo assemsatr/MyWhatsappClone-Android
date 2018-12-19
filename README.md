@@ -1,0 +1,4 @@
+# MyWhatsappClone-Android
+In this app; 1. I used SharedPrefrences to save some data locally. 2.Used Firebase and its adapter to store the data(messages) and retrieve them later. 
+
+![images](https://github.com/assemalturifi/MyWhatsappClone-Android/blob/master/Screen%20Shot%202018-12-18%20at%2011.11.21%20PM.png) ![images](https://github.com/assemalturifi/MyWhatsappClone-Android/blob/master/Screen%20Shot%202018-12-18%20at%2011.11.29%20PM.png)   ![images](https://github.com/assemalturifi/MyWhatsappClone-Android/blob/master/Screen%20Shot%202018-12-18%20at%2011.11.45%20PM.png)   ![images](https://github.com/assemalturifi/MyWhatsappClone-Android/blob/master/Screen%20Shot%202018-12-18%20at%2011.12.03%20PM.png)   ![images](https://github.com/assemalturifi/MyWhatsappClone-Android/blob/master/Screen%20Shot%202018-12-18%20at%2011.31.39%20PM.png)
